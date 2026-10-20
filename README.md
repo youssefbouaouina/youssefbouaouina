@@ -3,7 +3,7 @@
 **Étudiant en ingénierie cybersécurité & DevOps**
 DFIR · SOC · Detection Engineering · CI/CD
 
-Tunis, Tunisie · [Email](mailto:youssefbouaouina82@esprit.tn) · [LinkedIn](https://www.linkedin.com/in/youssef-bouaouina-93150330a)
+Tunis, Tunisie · [Email](mailto:youssefbouaouina82@gmail.com) · [LinkedIn](https://www.linkedin.com/in/youssef-bouaouina-93150330a)
 
 ---
 
@@ -109,6 +109,6 @@ Vérification Fortinet : [training.fortinet.com](https://training.fortinet.com/m
 
 ## Contact
 
-- Email : [youssefbouaouina82@esprit.tn](mailto:youssefbouaouina82@esprit.tn)
+- Email : [youssefbouaouina82@gmail.com](mailto:youssefbouaouina82@gmail.com)
 - LinkedIn : [youssef-bouaouina-93150330a](https://www.linkedin.com/in/youssef-bouaouina-93150330a)
 - GitHub : [youssefbouaouina](https://github.com/youssefbouaouina)

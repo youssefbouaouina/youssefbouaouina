@@ -101,11 +101,11 @@ Service Java/Spring Boot conteneurisé avec Docker et livré via un pipeline Jen
 ## Certifications
 
 - Cisco CCNA 2 — Switching, Routing and Wireless Essentials (SRWE) — Cisco Networking Academy
-- [Fortinet NSE 1 — Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) — Fortinet · ID `5116367382YB`
-- [Fortinet NSE 2 — Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) — Fortinet · ID `5048210791YB`
-- [Fortinet NSE 3 — Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) — Fortinet · ID `2083836175YB`
+- [Fortinet NSE 1 — Network Security Associate](https://training.fortinet.com/admin/tool/certificate/index.php) — Fortinet · ID `5116367382YB`
+- [Fortinet NSE 2 — Network Security Associate](https://training.fortinet.com/admin/tool/certificate/index.php) — Fortinet · ID `5048210791YB`
+- [Fortinet NSE 3 — Network Security Associate](https://training.fortinet.com/admin/tool/certificate/index.php) — Fortinet · ID `2083836175YB`
 
-Vérification Fortinet : [training.fortinet.com](https://training.fortinet.com/mod/customcert/verify_certificate.php) — saisir l'ID du certificat.
+Vérification Fortinet : [training.fortinet.com](https://training.fortinet.com/admin/tool/certificate/index.php) — saisir l'ID du certificat.
 
 ## Contact
 

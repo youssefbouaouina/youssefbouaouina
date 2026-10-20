@@ -3,7 +3,7 @@
 **Étudiant en ingénierie cybersécurité & DevOps**
 DFIR · SOC · Detection Engineering · CI/CD
 
-Tunis, Tunisie · [Email](mailto:youssef.bouaouina@esprit.tn) · [LinkedIn](https://www.linkedin.com/in/youssef-bouaouina-93150330a)
+Tunis, Tunisie · [Email](mailto:youssefbouaouina82@esprit.tn) · [LinkedIn](https://www.linkedin.com/in/youssef-bouaouina-93150330a)
 
 ---
 
@@ -65,7 +65,6 @@ Service Java/Spring Boot conteneurisé avec Docker et livré via un pipeline Jen
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Cybersécurité**
@@ -101,11 +100,15 @@ Service Java/Spring Boot conteneurisé avec Docker et livré via un pipeline Jen
 
 ## Certifications
 
-- Cisco CCNA 2 — Switching, Routing and Wireless Essentials (SRWE)
-- Fortinet NSE 1, NSE 2 et NSE 3 — Network Security Associate
+- Cisco CCNA 2 — Switching, Routing and Wireless Essentials (SRWE) — Cisco Networking Academy
+- [Fortinet NSE 1 — Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) — Fortinet · ID `5116367382YB`
+- [Fortinet NSE 2 — Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) — Fortinet · ID `5048210791YB`
+- [Fortinet NSE 3 — Network Security Associate](https://training.fortinet.com/mod/customcert/verify_certificate.php) — Fortinet · ID `2083836175YB`
+
+Vérification Fortinet : [training.fortinet.com](https://training.fortinet.com/mod/customcert/verify_certificate.php) — saisir l'ID du certificat.
 
 ## Contact
 
-- Email : [youssef.bouaouina@esprit.tn](mailto:youssef.bouaouina@esprit.tn)
+- Email : [youssefbouaouina82@esprit.tn](mailto:youssefbouaouina82@esprit.tn)
 - LinkedIn : [youssef-bouaouina-93150330a](https://www.linkedin.com/in/youssef-bouaouina-93150330a)
 - GitHub : [youssefbouaouina](https://github.com/youssefbouaouina)

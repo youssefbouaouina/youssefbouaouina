@@ -13,11 +13,15 @@ j'automatise le build, les tests et le déploiement des applications sur lesquel
 
 Je recherche actuellement un **stage ou un premier poste** en DFIR / SOC / detection engineering ou DevOps.
 
+**Démos interactives :** [portfolio](https://youssefbouaouina.github.io/portfolio/) — ATOR, MediTrack et pipeline CI/CD, sans installation ni compte.
+
 ## Projets phares
 
 ### [ATOR — Framework d'investigation endpoint et de threat hunting](https://github.com/youssefbouaouina/ATOR)
 
 Plateforme DFIR légère pour hôtes Windows, Linux et Docker, développée pendant mon stage en DFIR.
+
+**Démo navigateur :** [rejouer une investigation ATOR](https://youssefbouaouina.github.io/portfolio/#ator) — 6 détections, 3 endpoints et une chaîne ATT&CK de 5 étapes.
 
 - Architecture en six couches : collecteur portable, API d'ingestion FastAPI, stockage SQLite, moteur
   de détection, enrichissement MITRE ATT&CK et rapports/tableau de bord.
@@ -35,6 +39,8 @@ Plateforme DFIR légère pour hôtes Windows, Linux et Docker, développée pend
 
 Application full-stack de gestion des médicaments : inventaire, observance et contrôle des interactions.
 
+**Démo navigateur :** [explorer MediTrack](https://youssefbouaouina.github.io/portfolio/#meditrack) — données d'exemple, stockage local.
+
 - Backend Django REST avec authentification JWT et frontend React + TypeScript.
 - Inventaire des médicaments, scan de codes-barres via OpenFDA, calendrier hebdomadaire d'observance,
   contrôle des interactions et alertes de stock faible.
@@ -44,6 +50,8 @@ Application full-stack de gestion des médicaments : inventaire, observance et c
 ### [devopsNIDS](https://github.com/youssefbouaouina/devopsNIDS)
 
 Service Java/Spring Boot conteneurisé avec Docker et livré via un pipeline Jenkins.
+
+**Démo navigateur :** [exécuter le pipeline](https://youssefbouaouina.github.io/portfolio/#devops) — succès et échec de test simulés.
 
 `Java` `Spring Boot` `Docker` `Jenkins`
 
